@@ -1,19 +1,19 @@
 
-This Tic Tac Toe project is developed in python by Mohammed Zayd Kc
+# **TIC TAC TOE** #
+##### This Tic Tac Toe project is developed in python by Mohammed Zayd Kc #####
 
 
-++++++++++++++++++++++++++++++ADVANTAGES OF THIS PROJE++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++ADVANTAGES OF THIS PROJECT+++++++++++++++++++++++++
 
 
-In this project you can add two users name
-There will be a set of instructions 
-There will be Congratulations note to the winner
-This is a error free project
+1. In this project you can add two users name 
+2. There will be a set of instructions 
+3. There will be Congratulations note to the winner
+4. This is a error free project
 
 
 
 
-
-+++++++++++++++++++++++++++++++++BEST OF LUCK++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++BEST OF LUCK++++++++++++++++++++++++++++++
 
 
